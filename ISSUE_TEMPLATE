@@ -1,0 +1,17 @@
+name: Feedback
+description: Submit feedback or suggestions about the blog
+title: "[Feedback]: "
+labels: [feedback]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your feedback! Please fill out the details below.
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: Please describe your feedback, suggestion, or issue.
+      placeholder: Enter your feedback here...
+    validations:
+      required: true
