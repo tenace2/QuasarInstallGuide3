@@ -9,4 +9,4 @@ But, I tried to consider people who are attempting to get started with the frame
 
 However, having a comprehensive guide would have really helped me when I was starting out.  So I do hope, this guide also helps you.
 
-If you find this guide helpful, please add a 👍 reaction and/or leave a comment to help me prioritize updates or clarifications.
+If you find this guide helpful, please add a 👍 reaction and/or leave an issue comment to help me prioritize updates or clarifications.
